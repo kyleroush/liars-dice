@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bowl-game/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/bowl-game/static/js/main.711eca95.chunk.js",
-    "main.js.map": "/bowl-game/static/js/main.711eca95.chunk.js.map",
-    "runtime-main.js": "/bowl-game/static/js/runtime-main.5a3e2bd1.js",
-    "runtime-main.js.map": "/bowl-game/static/js/runtime-main.5a3e2bd1.js.map",
-    "static/js/2.f5121839.chunk.js": "/bowl-game/static/js/2.f5121839.chunk.js",
-    "static/js/2.f5121839.chunk.js.map": "/bowl-game/static/js/2.f5121839.chunk.js.map",
-    "index.html": "/bowl-game/index.html",
-    "precache-manifest.da341abf94184afe189658a362ed9628.js": "/bowl-game/precache-manifest.da341abf94184afe189658a362ed9628.js",
-    "service-worker.js": "/bowl-game/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/bowl-game/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.f5121839.chunk.js.LICENSE.txt": "/bowl-game/static/js/2.f5121839.chunk.js.LICENSE.txt"
+    "main.css": "/liars-dice/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/liars-dice/static/js/main.ad3bd366.chunk.js",
+    "main.js.map": "/liars-dice/static/js/main.ad3bd366.chunk.js.map",
+    "runtime-main.js": "/liars-dice/static/js/runtime-main.e13d10e2.js",
+    "runtime-main.js.map": "/liars-dice/static/js/runtime-main.e13d10e2.js.map",
+    "static/js/2.a0774891.chunk.js": "/liars-dice/static/js/2.a0774891.chunk.js",
+    "static/js/2.a0774891.chunk.js.map": "/liars-dice/static/js/2.a0774891.chunk.js.map",
+    "index.html": "/liars-dice/index.html",
+    "precache-manifest.f58eb68e0a192f75e10dd979b03290eb.js": "/liars-dice/precache-manifest.f58eb68e0a192f75e10dd979b03290eb.js",
+    "service-worker.js": "/liars-dice/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/liars-dice/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a0774891.chunk.js.LICENSE.txt": "/liars-dice/static/js/2.a0774891.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a3e2bd1.js",
-    "static/js/2.f5121839.chunk.js",
+    "static/js/runtime-main.e13d10e2.js",
+    "static/js/2.a0774891.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.711eca95.chunk.js"
+    "static/js/main.ad3bd366.chunk.js"
   ]
 }
