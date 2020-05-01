@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/liars-dice/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/liars-dice/static/js/main.415e290f.chunk.js",
-    "main.js.map": "/liars-dice/static/js/main.415e290f.chunk.js.map",
+    "main.js": "/liars-dice/static/js/main.e56f4c00.chunk.js",
+    "main.js.map": "/liars-dice/static/js/main.e56f4c00.chunk.js.map",
     "runtime-main.js": "/liars-dice/static/js/runtime-main.e13d10e2.js",
     "runtime-main.js.map": "/liars-dice/static/js/runtime-main.e13d10e2.js.map",
     "static/js/2.a0774891.chunk.js": "/liars-dice/static/js/2.a0774891.chunk.js",
     "static/js/2.a0774891.chunk.js.map": "/liars-dice/static/js/2.a0774891.chunk.js.map",
     "index.html": "/liars-dice/index.html",
-    "precache-manifest.ecc1a82b5bab87e39b68d8442fb821bf.js": "/liars-dice/precache-manifest.ecc1a82b5bab87e39b68d8442fb821bf.js",
+    "precache-manifest.72996fe5bea5be26993b647616a0342b.js": "/liars-dice/precache-manifest.72996fe5bea5be26993b647616a0342b.js",
     "service-worker.js": "/liars-dice/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/liars-dice/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.a0774891.chunk.js.LICENSE.txt": "/liars-dice/static/js/2.a0774891.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e13d10e2.js",
     "static/js/2.a0774891.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.415e290f.chunk.js"
+    "static/js/main.e56f4c00.chunk.js"
   ]
 }
