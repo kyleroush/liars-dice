@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c71c0f975c7746c6129f7187bb4e6131",
+    "revision": "a7265b3ee89dedd4a01b2e4e42df3ed3",
     "url": "/liars-dice/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liars-dice/static/css/2.2713f6f0.chunk.css"
   },
   {
-    "revision": "45ac0ed864c00c25662b",
+    "revision": "37a155188c22f5381e45",
     "url": "/liars-dice/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liars-dice/static/js/2.9f6d6918.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45ac0ed864c00c25662b",
-    "url": "/liars-dice/static/js/main.dda8f9c5.chunk.js"
+    "revision": "37a155188c22f5381e45",
+    "url": "/liars-dice/static/js/main.50e3d8f8.chunk.js"
   },
   {
     "revision": "2a804d704b7359ca58d8",
