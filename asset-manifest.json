@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/liars-dice/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/liars-dice/static/js/main.d3b750d2.chunk.js",
-    "main.js.map": "/liars-dice/static/js/main.d3b750d2.chunk.js.map",
+    "main.js": "/liars-dice/static/js/main.722bb3ac.chunk.js",
+    "main.js.map": "/liars-dice/static/js/main.722bb3ac.chunk.js.map",
     "runtime-main.js": "/liars-dice/static/js/runtime-main.e13d10e2.js",
     "runtime-main.js.map": "/liars-dice/static/js/runtime-main.e13d10e2.js.map",
     "static/css/2.2713f6f0.chunk.css": "/liars-dice/static/css/2.2713f6f0.chunk.css",
     "static/js/2.9f6d6918.chunk.js": "/liars-dice/static/js/2.9f6d6918.chunk.js",
     "static/js/2.9f6d6918.chunk.js.map": "/liars-dice/static/js/2.9f6d6918.chunk.js.map",
     "index.html": "/liars-dice/index.html",
-    "precache-manifest.03d35306dcbb41faf0bc779255d83436.js": "/liars-dice/precache-manifest.03d35306dcbb41faf0bc779255d83436.js",
+    "precache-manifest.037fbe799bbab8914b56b6e0a13ab19e.js": "/liars-dice/precache-manifest.037fbe799bbab8914b56b6e0a13ab19e.js",
     "service-worker.js": "/liars-dice/service-worker.js",
     "static/css/2.2713f6f0.chunk.css.map": "/liars-dice/static/css/2.2713f6f0.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/liars-dice/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2713f6f0.chunk.css",
     "static/js/2.9f6d6918.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d3b750d2.chunk.js"
+    "static/js/main.722bb3ac.chunk.js"
   ]
 }
