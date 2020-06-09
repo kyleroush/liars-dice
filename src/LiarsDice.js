@@ -16,6 +16,9 @@ class LiarsDice extends React.Component {
   // continue to roll per player  
   // who had what on result page
   // on result page word differently for loser being caller or better
+  // bet history
+  // auto fill the bet
+  // color and size of butons
 
   constructor(props) {
     super(props);
