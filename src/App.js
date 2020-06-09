@@ -60,7 +60,7 @@ class App extends React.Component {
 
     return (
       <div>
-        <NavBar session={session} name={'Liars Dice'}  repo={'liars-dice'} reset={this.reset} />
+        <NavBar session={session} name={'Liars Dice'} repo={'liars-dice'} reset={this.reset} setAppState={this.setValue} />
         {session && <h2>You {player && `(${player})`} are part of session {session} </h2>}
         {session == null && <SessionsPage setAppState={this.setValue}/>}
         {session != null && player == null && <PlayersPage session={session} setAppState={this.setValue} />}
