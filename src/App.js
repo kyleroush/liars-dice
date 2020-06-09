@@ -3,6 +3,7 @@ import SessionsPage from './SessionsPage';
 import PlayersPage from './PlayersPage';
 import {db, key} from './firestore';
 import LiarsDice from './LiarsDice'
+import NavBar from './navBar';
 
 class App extends React.Component {
 
@@ -59,7 +60,7 @@ class App extends React.Component {
 
     return (
       <div>
-        <h1>Liars Dice</h1>
+        <NavBar session={session} name={'Liars Dice'}  repo={'liars-dice'} reset={this.reset} />
         {session && <h2>You {player && `(${player})`} are part of session {session} </h2>}
         {session == null && <SessionsPage setAppState={this.setValue}/>}
         {session != null && player == null && <PlayersPage session={session} setAppState={this.setValue} />}
