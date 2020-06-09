@@ -151,7 +151,7 @@ class LiarsDice extends React.Component {
 
   rollAll = () => {
     var {session, player} = this.props;
-    var {players, order} = this.state;
+    var {players} = this.state;
     var {dice} = players[player];
 
     // this.reactDice.rol lAll()
@@ -286,7 +286,7 @@ class LiarsDice extends React.Component {
 
   // ===========
   _renderResults() {
-    var {loser, order, bet} = this.state;
+    var {loser, bet} = this.state;
 
     var totals = this.totalUpDice();
    
